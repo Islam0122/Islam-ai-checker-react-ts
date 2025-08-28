@@ -12,6 +12,7 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+
   "dependencies": {
     "@reduxjs/toolkit": "^2.8.2",
     "axios": "^1.9.0",
